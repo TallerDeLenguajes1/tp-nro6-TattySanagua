@@ -5,3 +5,10 @@ C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\bin\Debug\Ejercicio2
 C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\bin\Debug\Ejercicio2.pdb
 C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\obj\Debug\Ejercicio2.exe
 C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\obj\Debug\Ejercicio2.pdb
+C:\repos6\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\bin\Debug\Ejercicio2.exe.config
+C:\repos6\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\bin\Debug\Ejercicio2.exe
+C:\repos6\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\bin\Debug\Ejercicio2.pdb
+C:\repos6\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\obj\Debug\Ejercicio2.csprojAssemblyReference.cache
+C:\repos6\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\obj\Debug\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\repos6\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\obj\Debug\Ejercicio2.exe
+C:\repos6\tp-nro6-TattySanagua\Solution-tp6\Ejercicio2\obj\Debug\Ejercicio2.pdb
