@@ -1,0 +1,7 @@
+C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Tp6-1-Sanagua\bin\Debug\Tp6-1-Sanagua.exe.config
+C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Tp6-1-Sanagua\bin\Debug\Tp6-1-Sanagua.exe
+C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Tp6-1-Sanagua\bin\Debug\Tp6-1-Sanagua.pdb
+C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Tp6-1-Sanagua\obj\Debug\Ejercicio1.csprojAssemblyReference.cache
+C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Tp6-1-Sanagua\obj\Debug\Ejercicio1.csproj.CoreCompileInputs.cache
+C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Tp6-1-Sanagua\obj\Debug\Tp6-1-Sanagua.exe
+C:\repositorio\tp-nro6-TattySanagua\Solution-tp6\Tp6-1-Sanagua\obj\Debug\Tp6-1-Sanagua.pdb
